@@ -1,0 +1,3 @@
+- Hi, my name is Jacob! I've worked in the development realm for over 5 years now, largely on the front-end side of things, but in the past ~1 year I've gotten
+- more into data engineering. I love to learn, and am learning more about data engineering every day. I hope to transition into data engineering full time, and
+- make a career out of it! 
